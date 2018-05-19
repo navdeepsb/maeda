@@ -25,14 +25,14 @@ li.tile {
     animation: layer__bkg 3s ease-out infinite;
 }
 @keyframes layer__bkg {
-    25% { margin-left: -380px; }
-    75% { margin-left: -420px; }
+    25% { margin-left: -390px; }
+    75% { margin-left: -410px; }
 }
 
 .animation__two {
     animation: layer__fore 3s ease-out infinite;
 }
 @keyframes layer__fore {
-    25% { margin-left: -390px; }
-    75% { margin-left: -410px; }
+    25% { margin-left: -380px; }
+    75% { margin-left: -420px; }
 }
