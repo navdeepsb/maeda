@@ -1,0 +1,40 @@
+body {
+    background: #333;
+}
+
+body, ul.canvas {
+    margin: 0;
+    padding: 0;
+}
+
+ul.canvas {
+    width: 100vw;
+    height: 100vh;
+    list-style: none;
+    position: relative;
+}
+li.tile {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+li.tile:first-child {
+    background: #92c4c1;
+}
+
+
+.animation__one {
+    animation: layer__bkg 3s ease-out infinite;
+}
+@keyframes layer__bkg {
+    25% { margin-left: -380px; }
+    75% { margin-left: -420px; }
+}
+
+.animation__two {
+    animation: layer__fore 3s ease-out infinite;
+}
+@keyframes layer__fore {
+    25% { margin-left: -390px; }
+    75% { margin-left: -410px; }
+}
