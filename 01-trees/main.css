@@ -18,9 +18,7 @@ li.tile {
     top: 50%;
     left: 50%;
 }
-li.tile:first-child {
-    background: #92c4c1;
-}
+
 
 
 .animation__one {
