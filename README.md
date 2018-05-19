@@ -11,7 +11,7 @@ Project Maeda = [Code] + [Visual Design] projects
 
 ### List of projects
 
-- __Trees__ An attempt to capture the swaying of a tree. Personally inspired from a tree in my backyard that I kept watch on for the entire snowy winter. It was relieving to see it leave its barren form and sway in its full foliage in the spring air. _#WIP_ _#TODO_
+- __[Trees](https://rawgit.com/navdeepsb/maeda/master/01-trees/)__<br /><img src="previews/trees-summer.png" width="420" height="420" /><br />An attempt to capture the swaying of a tree. Personally inspired from a tree in my backyard that I kept watch on for the entire snowy winter. It was relieving to see it leave its barren form and sway in its full foliage in the spring air _#WIP #TODO_
 
 <br />
 <br />
